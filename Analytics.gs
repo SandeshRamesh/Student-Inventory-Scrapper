@@ -1,6 +1,6 @@
 
 function teacherMetrics(){
-  var url = "http://34.55.162.215/dash"; // Replace with your server's URL if deployed
+  var url = "<>"; // Replace with your server's URL if deployed
   //sheet.getRange(statusCell[1],statusCell[0]).setValue("Checking Teacher Metrics...");
   for (let i = 0; i <= 3; i ++){
     //Logger.log(getEndOfWeek(i));
