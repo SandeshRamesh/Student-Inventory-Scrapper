@@ -11,9 +11,9 @@ const backup_dash_url = "http://34.135.5.81/dash";
 const backup_scrape_url = "http://34.135.5.81/scrape";
 const backup_students_url = "http://34.135.5.81/students";
 
-API_KEY = "AllthingsWoo2022!";
+API_KEY = "<>";
 
-let teacher = "Romi";
+let teacher = "<>";
 
 const starterRow = 4;
 const statusCell = [3,1];
